@@ -1,0 +1,8 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/MobilogicBinding/ReceiveCommandProtocol.g.cs
+obj/Debug/ios/MobilogicBinding/ReceiveCommand.g.cs
+obj/Debug/ios/MobilogicBinding/CommandProtocol.g.cs
+obj/Debug/ios/MobilogicBinding/Command.g.cs
+obj/Debug/ios/MobilogicBinding/ReceiveCommandHandler.g.cs
+obj/Debug/ios/MobilogicBinding/NotificationProtocol.g.cs
+obj/Debug/ios/MobilogicBinding/MLScanner.g.cs
