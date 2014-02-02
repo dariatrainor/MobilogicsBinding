@@ -1,5 +1,0 @@
-/Users/dogs/MobilogicsBinding/binding/MobilogicsBinding/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
-/Users/dogs/MobilogicsBinding/binding/MobilogicsBinding/bin/Debug/MobilogicsBinding.dll.mdb
-/Users/dogs/MobilogicsBinding/binding/MobilogicsBinding/bin/Debug/MobilogicsBinding.dll
-/Users/dogs/MobilogicsBinding/binding/MobilogicsBinding/obj/Debug/MobilogicsBinding.dll
-/Users/dogs/MobilogicsBinding/binding/MobilogicsBinding/obj/Debug/MobilogicsBinding.dll.mdb
